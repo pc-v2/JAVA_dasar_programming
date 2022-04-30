@@ -1,3 +1,3 @@
 Manifest-Version: 1.0
-Main-Class: com.tutorial.Main
+Main-Class: com.tutorial49.Main
 

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/06-Printing dan alur eksekusi java/06-Printing dan alur eksekusi java.iml" filepath="$PROJECT_DIR$/06-Printing dan alur eksekusi java/06-Printing dan alur eksekusi java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-Memahami String[] args/07-Memahami String[] args.iml" filepath="$PROJECT_DIR$/07-Memahami String[] args/07-Memahami String[] args.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-Variable/08-Variable.iml" filepath="$PROJECT_DIR$/08-Variable/08-Variable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-Tipe Data Primitive/09-Tipe Data Primitive.iml" filepath="$PROJECT_DIR$/09-Tipe Data Primitive/09-Tipe Data Primitive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-Operator Aritmatika/10-Operator Aritmatika.iml" filepath="$PROJECT_DIR$/10-Operator Aritmatika/10-Operator Aritmatika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-Konversi tipe data/11-Konversi tipe data.iml" filepath="$PROJECT_DIR$/11-Konversi tipe data/11-Konversi tipe data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-Operator Unary/12-Operator Unary.iml" filepath="$PROJECT_DIR$/12-Operator Unary/12-Operator Unary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-Operator Assignments/13-Operator Assignments.iml" filepath="$PROJECT_DIR$/13-Operator Assignments/13-Operator Assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-Operator Komparasi/14-Operator Komparasi.iml" filepath="$PROJECT_DIR$/14-Operator Komparasi/14-Operator Komparasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15-Operator Logika/15-Operator Logika.iml" filepath="$PROJECT_DIR$/15-Operator Logika/15-Operator Logika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16-Operator Bitwise/16-Operator Bitwise.iml" filepath="$PROJECT_DIR$/16-Operator Bitwise/16-Operator Bitwise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17-Latihan Aritmatika/17-Latihan Aritmatika.iml" filepath="$PROJECT_DIR$/17-Latihan Aritmatika/17-Latihan Aritmatika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18-Latihan urutan operasi aritmatika/18-Latihan urutan operasi aritmatika.iml" filepath="$PROJECT_DIR$/18-Latihan urutan operasi aritmatika/18-Latihan urutan operasi aritmatika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19-Latihan Operator Logika/19-Latihan Operator Logika.iml" filepath="$PROJECT_DIR$/19-Latihan Operator Logika/19-Latihan Operator Logika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20-If Statement/20-If Statement.iml" filepath="$PROJECT_DIR$/20-If Statement/20-If Statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21-If else if statement/21-If else if statement.iml" filepath="$PROJECT_DIR$/21-If else if statement/21-If else if statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22-If bersarang (nested if)/22-If bersarang (nested if).iml" filepath="$PROJECT_DIR$/22-If bersarang (nested if)/22-If bersarang (nested if).iml" />
+      <module fileurl="file://$PROJECT_DIR$/23-Switch Case/23-Switch Case.iml" filepath="$PROJECT_DIR$/23-Switch Case/23-Switch Case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24-Ternary operator/24-Ternary operator.iml" filepath="$PROJECT_DIR$/24-Ternary operator/24-Ternary operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25-Latihan Kalkulator Sederhana/25-Latihan Kalkulator Sederhana.iml" filepath="$PROJECT_DIR$/25-Latihan Kalkulator Sederhana/25-Latihan Kalkulator Sederhana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26-Latihan kalkulator dengan switch case/26-Latihan kalkulator dengan switch case.iml" filepath="$PROJECT_DIR$/26-Latihan kalkulator dengan switch case/26-Latihan kalkulator dengan switch case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/27-While Loop/27-While Loop.iml" filepath="$PROJECT_DIR$/27-While Loop/27-While Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/28-Do While Loop/28-Do While Loop.iml" filepath="$PROJECT_DIR$/28-Do While Loop/28-Do While Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/29-For Loop/29-For Loop.iml" filepath="$PROJECT_DIR$/29-For Loop/29-For Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30-Latihan Loop Sederhana/30-Latihan Loop Sederhana.iml" filepath="$PROJECT_DIR$/30-Latihan Loop Sederhana/30-Latihan Loop Sederhana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/31-Latihan Deret Fibonacci/31-Latihan Deret Fibonacci.iml" filepath="$PROJECT_DIR$/31-Latihan Deret Fibonacci/31-Latihan Deret Fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/32-Break, Continue, dan return/32-Break, Continue, dan return.iml" filepath="$PROJECT_DIR$/32-Break, Continue, dan return/32-Break, Continue, dan return.iml" />
+      <module fileurl="file://$PROJECT_DIR$/33-Looping Bersarang/33-Looping Bersarang.iml" filepath="$PROJECT_DIR$/33-Looping Bersarang/33-Looping Bersarang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34-fungsi atau method (pengenalan)/34-fungsi atau method (pengenalan).iml" filepath="$PROJECT_DIR$/34-fungsi atau method (pengenalan)/34-fungsi atau method (pengenalan).iml" />
+      <module fileurl="file://$PROJECT_DIR$/35-fungsi void tanpa return/35-fungsi void tanpa return.iml" filepath="$PROJECT_DIR$/35-fungsi void tanpa return/35-fungsi void tanpa return.iml" />
+      <module fileurl="file://$PROJECT_DIR$/36-latihan fungsi/36-latihan fungsi.iml" filepath="$PROJECT_DIR$/36-latihan fungsi/36-latihan fungsi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/37-Fungsi recursive/37-Fungsi recursive.iml" filepath="$PROJECT_DIR$/37-Fungsi recursive/37-Fungsi recursive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/38-recursive bercabang/38-recursive bercabang.iml" filepath="$PROJECT_DIR$/38-recursive bercabang/38-recursive bercabang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/39-overload fungsi/39-overload fungsi.iml" filepath="$PROJECT_DIR$/39-overload fungsi/39-overload fungsi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/40-Pengenalan Array/40-Pengenalan Array.iml" filepath="$PROJECT_DIR$/40-Pengenalan Array/40-Pengenalan Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/41-Looping Array dengan For Each/41-Looping Array dengan For Each.iml" filepath="$PROJECT_DIR$/41-Looping Array dengan For Each/41-Looping Array dengan For Each.iml" />
+      <module fileurl="file://$PROJECT_DIR$/42-Mengenal Array lebih dalam/42-Mengenal Array lebih dalam.iml" filepath="$PROJECT_DIR$/42-Mengenal Array lebih dalam/42-Mengenal Array lebih dalam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/43-Operasi pada Array/43-Operasi pada Array.iml" filepath="$PROJECT_DIR$/43-Operasi pada Array/43-Operasi pada Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/44-Latihan Array/44-Latihan Array.iml" filepath="$PROJECT_DIR$/44-Latihan Array/44-Latihan Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/45-Array multidimensi/45-Array multidimensi.iml" filepath="$PROJECT_DIR$/45-Array multidimensi/45-Array multidimensi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/46-Array multidimensi lebih dalam/46-Array multidimensi lebih dalam.iml" filepath="$PROJECT_DIR$/46-Array multidimensi lebih dalam/46-Array multidimensi lebih dalam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/47-Latihan array 2D (Operasi Matrix)/47-Latihan array 2D (Operasi Matrix).iml" filepath="$PROJECT_DIR$/47-Latihan array 2D (Operasi Matrix)/47-Latihan array 2D (Operasi Matrix).iml" />
+      <module fileurl="file://$PROJECT_DIR$/48-Pengenalan String/48-Pengenalan String.iml" filepath="$PROJECT_DIR$/48-Pengenalan String/48-Pengenalan String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/49-Operasi String/49-Operasi String.iml" filepath="$PROJECT_DIR$/49-Operasi String/49-Operasi String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/50-String Builder/50-String Builder.iml" filepath="$PROJECT_DIR$/50-String Builder/50-String Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/51-Format String/51-Format String.iml" filepath="$PROJECT_DIR$/51-Format String/51-Format String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/52-Mengenal Exception/52-Mengenal Exception.iml" filepath="$PROJECT_DIR$/52-Mengenal Exception/52-Mengenal Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/53-Method Exception/53-Method Exception.iml" filepath="$PROJECT_DIR$/53-Method Exception/53-Method Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/54-Pengenalan IO Stream/54-Pengenalan IO Stream.iml" filepath="$PROJECT_DIR$/54-Pengenalan IO Stream/54-Pengenalan IO Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/55-Byte Stream/55-Byte Stream.iml" filepath="$PROJECT_DIR$/55-Byte Stream/55-Byte Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/56-Character Stream/56-Character Stream.iml" filepath="$PROJECT_DIR$/56-Character Stream/56-Character Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/57-Buffered Byte Stream/57-Buffered Byte Stream.iml" filepath="$PROJECT_DIR$/57-Buffered Byte Stream/57-Buffered Byte Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/58-Buffered Char Stream/58-Buffered Char Stream.iml" filepath="$PROJECT_DIR$/58-Buffered Char Stream/58-Buffered Char Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/59-Scanner/59-Scanner.iml" filepath="$PROJECT_DIR$/59-Scanner/59-Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/60-Project CRUD - Main Menu/60-Project CRUD - Main Menu.iml" filepath="$PROJECT_DIR$/60-Project CRUD - Main Menu/60-Project CRUD - Main Menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/61-Project CRUD - Read Data/61-Project CRUD - Read Data.iml" filepath="$PROJECT_DIR$/61-Project CRUD - Read Data/61-Project CRUD - Read Data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/62-Project CRUD - Cari Data/62-Project CRUD - Cari Data.iml" filepath="$PROJECT_DIR$/62-Project CRUD - Cari Data/62-Project CRUD - Cari Data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/63-Project CRUD - Tambah Data/63-Project CRUD - Tambah Data.iml" filepath="$PROJECT_DIR$/63-Project CRUD - Tambah Data/63-Project CRUD - Tambah Data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/64-Project CRUD - Delete Data/64-Project CRUD - Delete Data.iml" filepath="$PROJECT_DIR$/64-Project CRUD - Delete Data/64-Project CRUD - Delete Data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/65-Project CRUD - Update Data/65-Project CRUD - Update Data.iml" filepath="$PROJECT_DIR$/65-Project CRUD - Update Data/65-Project CRUD - Update Data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/66-Access Modifier dan Multi-File/66-Access Modifier dan Multi-File.iml" filepath="$PROJECT_DIR$/66-Access Modifier dan Multi-File/66-Access Modifier dan Multi-File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/67-Project CRUD - Finalisasi/67-Project CRUD - Finalisasi.iml" filepath="$PROJECT_DIR$/67-Project CRUD - Finalisasi/67-Project CRUD - Finalisasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA_dasar_programming.iml" filepath="$PROJECT_DIR$/JAVA_dasar_programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-Organisasi Program dengan Package/program dengan IDE/program dengan IDE.iml" filepath="$PROJECT_DIR$/05-Organisasi Program dengan Package/program dengan IDE/program dengan IDE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-Organisasi Program dengan Package/program dengan metode manual/program dengan metode manual.iml" filepath="$PROJECT_DIR$/05-Organisasi Program dengan Package/program dengan metode manual/program dengan metode manual.iml" />
+    </modules>
+  </component>
+</project>
